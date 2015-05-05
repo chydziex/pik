@@ -2,7 +2,7 @@
 <html>
 
  <head>
-         <title>Bydgoszcz - Hello World</title>
+         <title>Mapa Bydgoszczy- Hello World</title>
          <link rel="stylesheet" href="http://192.168.162.224:8080/geoserver/openlayers/theme/default/style.css" type="text/css">
          <style>
                  #map-id {
@@ -14,7 +14,7 @@
          <script src="http://openlayers.org/api/2.11/OpenLayers.js"></script>
  </head>
  <body>
-	<h1>Spring MVC Hello World + Openlayers Bygdoszcz Hello World</h1>
+	<h1>Spring MVC Hello World + Openlayers wyswietlajace mape Bygdoszczy Hello World</h1>
 
 	<h2>${msg}</h2>
 
